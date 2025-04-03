@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/R4v1k11/rovlik1.git/static/css/main.71bd3071.css",
+    "main.js": "/R4v1k11/rovlik1.git/static/js/main.5d822989.js",
+    "index.html": "/R4v1k11/rovlik1.git/index.html",
+    "main.71bd3071.css.map": "/R4v1k11/rovlik1.git/static/css/main.71bd3071.css.map",
+    "main.5d822989.js.map": "/R4v1k11/rovlik1.git/static/js/main.5d822989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71bd3071.css",
+    "static/js/main.5d822989.js"
+  ]
+}
